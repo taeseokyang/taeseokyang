@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:51cf66,100:b2f2bb&height=150&text=Hi+I'm+yang&fontSize=50&animation=blink&fontColor=ffffff&fontAlignY=30)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2f9e44,100:51cf66&height=150&text=Hi+I'm+yang&fontSize=50&animation=blink&fontColor=ffffff&fontAlignY=30)
 ### 2023 goal
 barobarrow 완성
 
