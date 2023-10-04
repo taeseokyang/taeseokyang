@@ -6,4 +6,4 @@ baroborrow 완성
 ### 2024 goal
 신문사 웹 개발
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xotjr5132)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xotjr5132)
