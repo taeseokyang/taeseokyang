@@ -7,5 +7,3 @@ baroborrow 완성
 신문사 웹 개발
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xotjr5132)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeseokyang&layout=compact)](https://github.com/taeseokyang/github-readme-stats)
