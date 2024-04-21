@@ -5,7 +5,7 @@ www.baram.today
 ## What i am doing
 - 구독형 서비스 개발중
 - 가천헤럴드 편집국장
-- 로켓 동아리 GOAT 개발 팀장
+- 로켓 동아리 GOAT 전자부 팀장
 - Leets 교육부장
  
 ## What will I do
