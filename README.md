@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeseokyang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+I do what I want
+
 ## What i did
 - 가천대학교 대여 플랫폼 '바람' 풀스택 개발
 www.baram.today
