@@ -1,6 +1,5 @@
 ## What i did
-- 가천대학교 대여 플랫폼 '바람' 풀스택 개발 
-www.baram.today
+- 가천대학교 대여 플랫폼 '바람' 풀스택 참여 www.baram.today
 
 ## What i am doing
 - 구독형 서비스 개발중
