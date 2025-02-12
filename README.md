@@ -1,8 +1,8 @@
-## What I Have Done
+## Services Developed
 - Baram: The Student Council’s rental or provided item confirmation service
 - The Gachon Herald: Gachon University Official English Newspaper Website (www.thegachonherald.com)
 
-## What I Am Doing
+## Current Activities
 - Providing Web Hosting Services (https://yangsoft.netlify.app)
 - Developing a iOS application
 - Algorithm Instructor
