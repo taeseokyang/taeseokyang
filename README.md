@@ -3,6 +3,7 @@
 - The Gachon Herald: Gachon University Official English Newspaper Website (www.thegachonherald.com)
 
 ## What I Am Doing
-- Undergraduate Researcher in Algorithm Lab
+- Providing Web Hosting Services (https://yangsoft.netlify.app)
 - Developing a iOS application
- 
+- Algorithm Instructor
+- Undergraduate Researcher in Algorithm Lab
