@@ -3,7 +3,7 @@
 - **The Gachon Herald**: Gachon University Official English Newspaper Website (www.thegachonherald.com)
 
 ## Current Activities
-- Providing Web Hosting Services (https://yangsoft.netlify.app)
+- Providing web hosting services for online newspapers (https://yangsoft.netlify.app)
 - Developing a iOS application
 - Algorithm Instructor
 - Undergraduate Researcher in Algorithm Lab
