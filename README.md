@@ -5,5 +5,5 @@
 ## Current Activities
 - Providing web hosting services for online newspapers (https://yangsoft.netlify.app)
 - Developing a iOS application
-- Algorithm Instructor
+- Algorithm Instructor at an academy
 - Undergraduate Researcher in Algorithm Lab
