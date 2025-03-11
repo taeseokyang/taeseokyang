@@ -4,6 +4,5 @@
 
 ## Current Activities
 - Providing web hosting services for online newspapers (www.yangsoft.co.kr)
-- Developing a iOS application
-- Algorithm Instructor at an academy
-- Undergraduate Researcher in Algorithm Lab
+- Developing an iOS SNS application
+- Teaching algorithms at an academy
