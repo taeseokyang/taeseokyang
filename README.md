@@ -4,5 +4,7 @@
 
 ## Current Activities
 - Providing web hosting services for online newspapers (www.yangsoft.co.kr)
+- Intern at DAC lab: Conducting AI research using medical data
+- Teaching algorithms at an coding academy
 - Developing an iOS SNS application
-- Teaching algorithms at an academy
+
