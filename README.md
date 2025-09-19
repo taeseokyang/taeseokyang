@@ -11,4 +11,17 @@
 ## Publications
 - Taeseok Yang, Minsik Lim, Doyeon An, Seok Jun Kim, Suehyun Lee, "Machine Learning-Based Pain Intensity Assessment Using Multimodal Physiological Signals and Resampling Techniques in Clinical Datasets", Journal of Korea Multimedia Society, vol 28, no 8, pp. 992-1000, August 2025. 
 
+## Interests
+- Pharmacovigilance
+- Adverse drug reactions
+- Opioid Use Disorder
+- Artificial Intelligence (AI)
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+
+## Current Research
+- Identification and prevalence estimation of opioid use disorder patients using claims data
+- Development of predictive models for opioid use disorder leveraging clinical notes
+- Early prediction of amiodarone-induced thyroid dysfunction
+
 Contact me: ts.yang.0123@gmail.com
