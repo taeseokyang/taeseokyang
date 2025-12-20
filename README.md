@@ -1,5 +1,5 @@
 # Taeseok Yang
-ts.yang.0123@gmail.com
+Email: ts.yang.0123@gmail.com
 
 ## Services & Projects
 - **Pagether**: iOS App for Book Logging and Social Networking | www.pagether.net
