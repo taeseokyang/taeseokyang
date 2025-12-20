@@ -9,7 +9,6 @@ Email: ts.yang.0123@gmail.com
 ## Activities
 - Undergraduate Researcher at DAC Lab: Engaged in AI research leveraging medical data (http://dac.gachon.ac.kr)
 - Providing web hosting services for online newspapers (www.yangsoft.co.kr)
-- Teaching algorithms at an coding academy
 
 ## Publications
 - Taeseok Yang, Minsik Lim, Doyeon An, Seok Jun Kim, Suehyun Lee, "Machine Learning-Based Pain Intensity Assessment Using Multimodal Physiological Signals and Resampling Techniques in Clinical Datasets", Journal of Korea Multimedia Society, vol 28, no 8, pp. 992-1000, August 2025. 
