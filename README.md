@@ -21,3 +21,5 @@ Email: ts.yang.0123@gmail.com
 - Identification and prevalence estimation of opioid use disorder patients using claims data
 - Development of predictive models for opioid use disorder leveraging clinical notes
 - Early prediction of amiodarone-induced thyroid dysfunction
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xotjr5132)](https://solved.ac/xotjr5132/)
