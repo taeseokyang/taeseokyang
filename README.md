@@ -24,5 +24,13 @@ AI Researcher | Medical Informatics | Full-Stack Developer
 ## Publications
 - Taeseok Yang, Minsik Lim, Doyeon An, Seok Jun Kim, Suehyun Lee, "Machine Learning-Based Pain Intensity Assessment Using Multimodal Physiological Signals and Resampling Techniques in Clinical Datasets", Journal of Korea Multimedia Society, vol 28, no 8, pp. 992-1000, August 2025.
 
+## Technical Skills
+**Languages**: Python, C, Java, JavaScript  
+**Backend**: Spring Boot, Django  
+**Frontend**: React  
+**Database**: MySQL, MongoDB  
+**Hardware / IoT**: Arduino, Raspberry Pi  
+**UI/UX**: Figma
+
 ## Contact
 Email: ts.yang.0123@gmail.com
